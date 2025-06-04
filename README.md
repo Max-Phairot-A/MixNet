@@ -14,6 +14,12 @@ Python API and the novel algorithm for motor imagery EEG classification named Mi
 - **Bug reports:** [https://github.com/Max-Phairot-A/MixNet/issues](https://github.com/Max-Phairot-A/MixNet/issues)
 ---
 
+## 📌 PyTorch Version 🔁
+
+The MIN2Net architecture implemented in PyTorch is available on:
+
+👉 [AlphaGrad Repository](https://github.com/xydxdy/AlphaGrad) – mtl_bci/networks/MIN2Net.py
+
 ## Getting started
 
 ### Dependencies
