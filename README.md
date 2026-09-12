@@ -37,7 +37,7 @@ The MIN2Net architecture implemented in PyTorch is available on:
 docker pull tensorflow/tensorflow:2.7.0-gpu
 docker run -ti --name mixnet_container docker.io/tensorflow/tensorflow:2.7.0-gpu bash
 wget https://github.com/Max-Phairot-A/MixNet/blob/main/requirement.txt
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### Installation:
