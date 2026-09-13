@@ -54,7 +54,10 @@ setuptools.setup(
         'scikit-learn>=1.2.2',
         'wget>=3.2',
         'ray>=1.11.0',
-        'pandas'
+        'pandas>=1.5.3',
+        'h5py==3.5.0',
+        'mne==1.6.1',
+        'moabb==1.0.0'
     ],
     package_data= {
         # all .csv files at any package depth
